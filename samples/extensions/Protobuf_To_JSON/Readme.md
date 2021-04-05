@@ -1,5 +1,8 @@
 # Protobuf to JSON Extension
 
+## Prerequisites
+TIBCO Cloud™ Integration - latest version.
+
 ## Overview
 This is a custom extension (function) to convert General Transit Feed Specification (GTFS) protobuf message format to JSON format. The extension is optimized for enterprise usage and from a scalability perspective. 
 
